@@ -1,0 +1,7 @@
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\WcfServiceLibrary1\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.AssemblyReference.cache
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.dll
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\WcfServiceLibrary1\obj\Debug\WcfServiceLibrary1.pdb

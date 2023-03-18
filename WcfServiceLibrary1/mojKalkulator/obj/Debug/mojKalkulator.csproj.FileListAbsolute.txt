@@ -1,0 +1,7 @@
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\mojKalkulator\bin\Debug\mojKalkulator.exe.config
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\mojKalkulator\bin\Debug\mojKalkulator.exe
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\mojKalkulator\bin\Debug\mojKalkulator.pdb
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\mojKalkulator\obj\Debug\mojKalkulator.csproj.AssemblyReference.cache
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\mojKalkulator\obj\Debug\mojKalkulator.csproj.CoreCompileInputs.cache
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\mojKalkulator\obj\Debug\mojKalkulator.exe
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WcfServiceLibrary1\mojKalkulator\obj\Debug\mojKalkulator.pdb
