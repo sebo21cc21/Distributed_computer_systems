@@ -11,6 +11,7 @@ namespace WcfServiceContract1
     [ServiceContract(ProtectionLevel = ProtectionLevel.None)]
     public interface ICalculator
     {
+
         [OperationContract]
         double Add(double n1, double n2);
         [OperationContract]
@@ -20,4 +21,5 @@ namespace WcfServiceContract1
         [OperationContract]
         double Summarize(double n1);
     }
+
 }

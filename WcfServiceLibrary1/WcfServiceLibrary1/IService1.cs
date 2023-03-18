@@ -6,6 +6,7 @@ using System.ServiceModel;
 using System.Text;
 namespace WcfServiceContract1
 {
+    [ServiceBehavior(InstanceContextMode = InstanceContextMode.Single)]
     public class MyCalculator : ICalculator
     {
         double sum = 0;

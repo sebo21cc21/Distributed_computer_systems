@@ -17,7 +17,7 @@ namespace WcfServiceClient1
             CalculatorClient("WSHttpBinding_ICalculator");
             CalculatorClient client2 = new
             CalculatorClient("BasicHttpBinding_ICalculator");
-            //CalculatorClient client3 = new CalculatorClient("myEndpoint3");
+            CalculatorClient client3 = new CalculatorClient("myEndpoint3");
 
             Console.WriteLine("Addition");
 
@@ -31,7 +31,7 @@ namespace WcfServiceClient1
             Console.WriteLine(result);
 
             //result = myClient.Multiply(1, 2);
-            //result = client3.Multiply(1, 2);
+            result = client3.Multiply(1, 2);
             Console.WriteLine("Multiplication");
             Console.WriteLine(result);
 
@@ -49,14 +49,17 @@ namespace WcfServiceClient1
             Console.WriteLine("Client2 Second Summarize");
             Console.WriteLine(result);
 
-            //result = client3.Summarize(2);
+            result = client3.Summarize(2);
             Console.WriteLine("Client3 First Summarize");
             Console.WriteLine(result);
-            //result = client3.Summarize(2);
+            result = client3.Summarize(2);
             Console.WriteLine("Client3 Second Summarize");
             Console.WriteLine(result);
             // Krok 3: Zamknięcie klienta zamyka polaczenie i zasoby.
             //myClient.Close();
+            client1.Close();
+            client2.Close();
+            client3.Close();
         }
     }
 }
