@@ -1,0 +1,14 @@
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\obj\Debug\host.csproj.AssemblyReference.cache
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\obj\Debug\host.csproj.CoreCompileInputs.cache
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\bin\Debug\host.exe.config
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\bin\Debug\host.exe
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\bin\Debug\host.pdb
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\bin\Debug\callback2.dll
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\bin\Debug\WcfServiceLibrary1.dll
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\bin\Debug\callback2.pdb
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\bin\Debug\callback2.dll.config
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\bin\Debug\WcfServiceLibrary1.pdb
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\bin\Debug\WcfServiceLibrary1.dll.config
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\obj\Debug\host.csproj.CopyComplete
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\obj\Debug\host.exe
+C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\host\obj\Debug\host.pdb
