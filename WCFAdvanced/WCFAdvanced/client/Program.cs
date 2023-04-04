@@ -71,7 +71,7 @@ namespace client
             Console.WriteLine("...calling DoSomething");
             client3.DoSomething(value2);
 
-            value1 = 20;
+            value1 = 7;
             Console.WriteLine("...calling Factorial({0})", value1);
             client3.Factorial(value1);
 

@@ -4,3 +4,10 @@ C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvance
 C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\bin\Debug\client.pdb
 C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\obj\Debug\client.exe
 C:\Users\sebo2\OneDrive\Dokumenty\GitHub\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\obj\Debug\client.pdb
+C:\Users\wdomi\Documents\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\bin\Debug\client.exe.config
+C:\Users\wdomi\Documents\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\bin\Debug\client.exe
+C:\Users\wdomi\Documents\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\bin\Debug\client.pdb
+C:\Users\wdomi\Documents\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\wdomi\Documents\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\wdomi\Documents\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\obj\Debug\client.exe
+C:\Users\wdomi\Documents\Distributed_computer_systems\WCFAdvanced\WCFAdvanced\client\obj\Debug\client.pdb
