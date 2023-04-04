@@ -1,0 +1,6 @@
+C:\Users\wdomi\source\repos\WcfService2\WcfServiceClient2\bin\Debug\WcfServiceClient2.exe.config
+C:\Users\wdomi\source\repos\WcfService2\WcfServiceClient2\bin\Debug\WcfServiceClient2.exe
+C:\Users\wdomi\source\repos\WcfService2\WcfServiceClient2\bin\Debug\WcfServiceClient2.pdb
+C:\Users\wdomi\source\repos\WcfService2\WcfServiceClient2\obj\Debug\WcfServiceClient2.csproj.CoreCompileInputs.cache
+C:\Users\wdomi\source\repos\WcfService2\WcfServiceClient2\obj\Debug\WcfServiceClient2.exe
+C:\Users\wdomi\source\repos\WcfService2\WcfServiceClient2\obj\Debug\WcfServiceClient2.pdb
