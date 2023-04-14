@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33423.256
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WcfRestService", "WcfRestService\WcfRestService.csproj", "{F797611A-A19A-42DF-8B22-F8443BF019A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{11A30C10-A500-4F6E-9E84-B50EC890DD76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F797611A-A19A-42DF-8B22-F8443BF019A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F797611A-A19A-42DF-8B22-F8443BF019A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F797611A-A19A-42DF-8B22-F8443BF019A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F797611A-A19A-42DF-8B22-F8443BF019A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11A30C10-A500-4F6E-9E84-B50EC890DD76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11A30C10-A500-4F6E-9E84-B50EC890DD76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11A30C10-A500-4F6E-9E84-B50EC890DD76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11A30C10-A500-4F6E-9E84-B50EC890DD76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAE2B850-5AE0-4E28-903B-54A67F685FE0}
+	EndGlobalSection
+EndGlobal
