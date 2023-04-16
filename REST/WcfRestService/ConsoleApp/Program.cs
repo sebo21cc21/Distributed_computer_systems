@@ -38,6 +38,7 @@ namespace ConsoleApp
                     {
                         case "GET":
                             break;
+
                         case "POST":
                             Console.WriteLine("Wklej zawartosc XMLa lub JSONa (w jednej linii!)");
                             string data = Console.ReadLine();
@@ -47,6 +48,7 @@ namespace ConsoleApp
                             postData.Write(buffer, 0, buffer.Length);
                             postData.Close();
                             break;
+
                         default:
                             break;
                     }
