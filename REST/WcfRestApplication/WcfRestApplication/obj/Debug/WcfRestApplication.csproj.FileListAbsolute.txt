@@ -1,0 +1,7 @@
+C:\Users\wdomi\source\repos\WcfRestApplication\WcfRestApplication\bin\WcfRestApplication.dll.config
+C:\Users\wdomi\source\repos\WcfRestApplication\WcfRestApplication\bin\WcfRestApplication.dll
+C:\Users\wdomi\source\repos\WcfRestApplication\WcfRestApplication\bin\WcfRestApplication.pdb
+C:\Users\wdomi\source\repos\WcfRestApplication\WcfRestApplication\obj\Debug\WcfRestApplication.csproj.AssemblyReference.cache
+C:\Users\wdomi\source\repos\WcfRestApplication\WcfRestApplication\obj\Debug\WcfRestApplication.csproj.CoreCompileInputs.cache
+C:\Users\wdomi\source\repos\WcfRestApplication\WcfRestApplication\obj\Debug\WcfRestApplication.dll
+C:\Users\wdomi\source\repos\WcfRestApplication\WcfRestApplication\obj\Debug\WcfRestApplication.pdb
